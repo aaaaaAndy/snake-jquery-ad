@@ -1,0 +1,65 @@
+body{
+    background-image: url("../images/content_bg5.jpg");
+    background-repeat: no-repeat;
+    background-size: 1920px 1000px;
+    width: 100%;
+    height:100%;
+}
+
+#game_start{
+    width: 100px;
+    height: 30px;
+    position: absolute;
+    left: 300px;
+    top: 60px;
+}
+
+.content_bg{
+    width: 920px;
+    height: 620px;
+    /*background: url("images/content_bg2.png");
+    background-repeat: no-repeat;*/
+    //background-color: beige;
+    border: solid #ff8624 1px;
+    //opacity: 0.5;
+}
+
+#content_bg_div{
+    position: absolute;
+    left: 300px;
+    top: 100px;
+}
+
+#food_img{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.snake_all{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 20px;
+    height: 20px;
+}
+
+#score_div{
+    width: 100px;
+    height: 30px;
+    background-color: #ff8624;
+    opacity: 0.7;
+    position: absolute;
+    left: 650px;
+    top: 60px;
+    text-align: center;
+    color: gray;
+}
+
+
+/*
+#content_bg_img{
+    display: none;
+}*/
