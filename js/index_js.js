@@ -1,5 +1,6 @@
 /**
  * Created by yuan.wang on 2017/7/26.
+ * test commit
  */
 
 $(function () {
